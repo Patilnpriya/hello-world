@@ -4,7 +4,6 @@
 Its My Birthday Today!!!
 Happy Birthday Swapnapriya!!!!!!!
 Problem Resolved
-I am going to crack tis interview , /Yes.
-
-Deploying on container , Hiiiiiiiiiiiiiiiiiii
+I am going to crack tis DevOps is great
+05022020 Deploying on container , Hiiiiiiiiiiiiiiiiiii
 <h2> Hii Ansible</h2>
